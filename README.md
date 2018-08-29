@@ -1,6 +1,6 @@
-# BetterSlack :unicorn:
+# Schlock
 
-A chrome extension to improve my Slack experience. You can [read more here](https://g3rv4.com/2018/08/betterslack). Unfortunately, **this project will die soon because injecting javascript into Slack breaks their terms**. Read [my post here](https://g3rv4.com/2018/08/bye-bye-betterslack)
+A Chrome extension to improve your experience on Slack. This is a fork of the original repository which the developer plans to delete because they were [sent scary legal threats](https://g3rv4.com/2018/08/bye-bye-betterslack) for trying to improve the app.
 
 ## Changelog
 
